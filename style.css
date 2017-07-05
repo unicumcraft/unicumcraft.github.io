@@ -1,0 +1,28 @@
+body{
+    background-image: url(images/hd_stone_background_by_supertwistedgaming-d5ywlyk.jpg);
+    
+    
+}
+div#шапка{
+    color:black;
+    text-align: right;
+    width:1200px; 
+    margin:0 auto;
+    background: #ccc; 
+    height : 200px;
+}
+div#меню{
+    text-align: left;
+    width: 400px;
+    height: 600px;
+    float: left; 
+    background: #eee;
+    color:aqua;
+}
+div#контент{
+
+    width: 800px; 
+    float: right; 
+    height: 600px; 
+    background: #ddd;
+}
